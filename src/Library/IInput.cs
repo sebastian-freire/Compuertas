@@ -1,5 +1,5 @@
 namespace Library;
-interface IInput<T>
+public interface IInput
 {
     public bool GetResult();
 }   
